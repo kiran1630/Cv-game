@@ -20,20 +20,7 @@ This project enables users to play interactive games using hand gestures recogni
 * **Running the game:**
   ```bash
   streamlit run  app.py
+![logo](https://img.icons8.com/?size=100&id=9pAKclTpHTMC&format=png&color=000000)
 
-<div class="container">
-    <div class="row">
-        <div class="col">
-            ![logo](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)
-
-        </div>
-       <div class="col">
-        ![logo](https://img.icons8.com/?size=100&id=9pAKclTpHTMC&format=png&color=000000)
-       </div>
-       <div class="col">
-        
 ![logo](https://img.icons8.com/?size=100&id=bpip0gGiBLT1&format=png&color=000000)
 
-       </div>
-    </div>
-   </div>
